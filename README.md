@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/src/assets/vue.svg" alt="TeamAI Logo" width="80" height="80" />
+  <img width="288" height="288" alt="TeamAI Logo" src="https://github.com/user-attachments/assets/fe7eec23-97d8-46f7-bec2-e2f329a39fca" />
   <h1 align="center">TeamAI</h1>
   <p align="center">AI 员工调度与协作平台</p>
 </p>
