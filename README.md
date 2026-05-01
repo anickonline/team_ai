@@ -19,35 +19,6 @@
 
 TeamAI 是一个 AI 员工调度与协作平台，让企业可以创建、管理和调度多个 AI 员工，协同完成复杂任务。支持任务分解、多智能体协作、AI 主持会议、实时消息、工作流自动化等能力。
 
-## 截图
-
-<table>
-  <tr>
-    <td align="center">仪表盘</td>
-    <td align="center">任务管理</td>
-  </tr>
-  <tr>
-    <td><img src="" alt="dashboard" /></td>
-    <td><img src="" alt="tasks" /></td>
-  </tr>
-  <tr>
-    <td align="center">协作看板</td>
-    <td align="center">AI 会议</td>
-  </tr>
-  <tr>
-    <td><img src="" alt="board" /></td>
-    <td><img src="" alt="meeting" /></td>
-  </tr>
-  <tr>
-    <td align="center">消息中心</td>
-    <td align="center">员工管理</td>
-  </tr>
-  <tr>
-    <td><img src="" alt="message" /></td>
-    <td><img src="" alt="employee" /></td>
-  </tr>
-</table>
-
 ## 核心特性
 
 ### AI 员工管理
@@ -205,3 +176,32 @@ Copyright © 2026 成都致易科技有限公司. All rights reserved.
 
 本软件为非开源软件。社区版可免费使用，但源代码受版权保护，
 不得修改、再分发或商业转售。详见 LICENSE 文件。
+
+## 功能截图
+
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192456_localhost" src="https://github.com/user-attachments/assets/0e2ecbc2-37a4-49be-86e9-c10516e6b8e5" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192440_localhost" src="https://github.com/user-attachments/assets/edbde571-c118-406b-9c4d-daf817710f17" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193259_192 168 1 4" src="https://github.com/user-attachments/assets/e0efafca-f447-49a0-9726-a0c75b90c36d" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193248_192 168 1 4" src="https://github.com/user-attachments/assets/2717bb79-e388-406e-93fe-173676fc6143" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193238_192 168 1 4" src="https://github.com/user-attachments/assets/1a025556-6607-4360-b062-97adb59aa0db" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193227_192 168 1 4" src="https://github.com/user-attachments/assets/84e6ed31-18d8-425d-bf1f-626411c6f7d1" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193158_192 168 1 4" src="https://github.com/user-attachments/assets/a7e2a005-e0f4-4b8d-bff8-acda6c1262c3" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193149_192 168 1 4" src="https://github.com/user-attachments/assets/7f88d227-e119-47d2-97bf-6ea1f5bae684" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193139_192 168 1 4" src="https://github.com/user-attachments/assets/28849d6a-607d-4372-b406-414caca26c6c" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193127_192 168 1 4" src="https://github.com/user-attachments/assets/cbf14857-c9f8-4a03-9a2f-eca3b9c4c159" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193110_192 168 1 4" src="https://github.com/user-attachments/assets/837f616a-aa6c-48ac-b6e7-6ea7c6f8def6" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193034_192 168 1 4" src="https://github.com/user-attachments/assets/67db2ba1-058a-449d-8110-68b16f33d987" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_193017_192 168 1 4" src="https://github.com/user-attachments/assets/bb779c45-7e34-4f7d-9ce5-a370129580a3" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192949_localhost" src="https://github.com/user-attachments/assets/711882b1-8bda-473b-87a5-a3c6c2174ba3" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192934_localhost" src="https://github.com/user-attachments/assets/e0037449-f450-4ad4-a8d1-e2b33af43faf" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192916_localhost" src="https://github.com/user-attachments/assets/1aa0f37e-6ad4-4d23-9cbf-850d185e1bb2" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192859_localhost" src="https://github.com/user-attachments/assets/c21da2ee-0a68-482a-9cb3-87209768b224" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192846_localhost" src="https://github.com/user-attachments/assets/3e79b2f8-ada9-4464-819f-162ecf2b4fcc" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192837_localhost" src="https://github.com/user-attachments/assets/cc969ab9-fbfd-4bc1-a81f-0156a0d36829" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192825_localhost" src="https://github.com/user-attachments/assets/f8ecb035-6f0e-4136-b32a-d2ca282558bb" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192743_localhost" src="https://github.com/user-attachments/assets/9f4db7f4-dd6e-4144-93cb-b0e48ce0bee9" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192657_localhost" src="https://github.com/user-attachments/assets/80f26e75-e7b8-4b4d-8967-0b948437cd2e" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192644_localhost" src="https://github.com/user-attachments/assets/a54f992b-6d54-4532-ae9e-3e5ac86b40d6" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192628_localhost" src="https://github.com/user-attachments/assets/d936a0d6-61f9-4fc5-911d-1ee7534b439a" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192530_localhost" src="https://github.com/user-attachments/assets/34493add-7026-41c8-9b06-e17eebb18b57" />
+<img width="2434" height="1247" alt="屏幕截图_1-5-2026_192517_localhost" src="https://github.com/user-attachments/assets/2c4b36d4-3684-4140-9f43-78c0727093ad" />
