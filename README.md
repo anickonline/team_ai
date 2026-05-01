@@ -17,7 +17,7 @@
 ## 简介
 
 TeamAI 是一个 AI 员工调度与协作平台，让企业可以创建、管理和调度多个 AI 员工，协同完成复杂任务。支持任务分解、多智能体协作、AI 主持会议、实时消息、工作流自动化等能力。QQ群交流：134287
-<img width="1284" height="2283" alt="qrcode_1777638068197" src="https://github.com/user-attachments/assets/ec74f0f1-c379-4cb3-8c01-ad92dd5080fa" />
+<img width="240" height="426" alt="qrcode_1777638068197" src="https://github.com/user-attachments/assets/ec74f0f1-c379-4cb3-8c01-ad92dd5080fa" />
 
 
 ## 核心特性
