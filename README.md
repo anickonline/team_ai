@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/TypeORM-0.3-ff6f61" />
   <img src="https://img.shields.io/badge/PostgreSQL-15+-336791" />
   <img src="https://img.shields.io/badge/Redis-5+-dc382d" />
-  <img src="https://img.shields.io/badge/License-MIT-blue" />
 </p>
 
 ---
