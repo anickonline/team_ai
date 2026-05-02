@@ -176,7 +176,7 @@ TeamAI/
 Copyright © 2026 成都致易科技有限公司. All rights reserved.
 
 本软件为非开源软件。社区版可免费使用，但源代码受版权保护，
-不得修改、再分发或商业转售。详见 LICENSE 文件。
+不得修改、再分发或商业转售。详见 [LICENSE](LICENSE) 文件。
 
 ## 功能截图
 
