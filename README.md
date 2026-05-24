@@ -128,8 +128,6 @@ npm run dev
 ### 生产部署
 
 ```bash
-# 打包
-./publish.sh
 
 # 部署（在目标机器上）
 cd scripts
@@ -162,7 +160,6 @@ TeamAI/
 │   └── package.json
 ├── nginx/                    # Nginx 配置
 ├── scripts/                  # 启动脚本
-├── publish.sh                # 打包脚本
 ├── CHANGELOG.md              # 更新说明
 └── docker-compose.yml        # Docker 编排
 ```
