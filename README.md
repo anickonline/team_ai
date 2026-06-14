@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img width="480" height="480" alt="logo" src="https://github.com/user-attachments/assets/dbecc13a-7b0a-4c2a-822d-dc132a7575ec" />
+  <img width="480" height="480" alt="logo" src="https://github.com/user-attachments/assets/a0604dd8-d9e3-458d-81a9-83364f7f869d" />
   <h1 align="center">TeamAI</h1>
   <p align="center">AI 员工调度与协作平台</p>
 </p>
