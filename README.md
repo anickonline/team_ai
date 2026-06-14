@@ -1,7 +1,6 @@
-<p align="center">
-  <img width="288" height="288" alt="TeamAI Logo" src="https://github.com/user-attachments/assets/fe7eec23-97d8-46f7-bec2-e2f329a39fca" />
-  <img width="1024" height="1024" alt="image_665477013775598" src="https://github.com/user-attachments/assets/36add3fc-97b5-4658-b4c2-6e26d3d54a9a" />
 
+<p align="center">
+  <img width="480" height="480" alt="logo" src="https://github.com/user-attachments/assets/dbecc13a-7b0a-4c2a-822d-dc132a7575ec" />
   <h1 align="center">TeamAI</h1>
   <p align="center">AI 员工调度与协作平台</p>
 </p>
